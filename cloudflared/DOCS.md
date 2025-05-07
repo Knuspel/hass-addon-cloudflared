@@ -16,7 +16,7 @@ Home Assistant add-on.
 
 1. Add the repository URL to your Home Assistant add-on store:
    ```
-   https://github.com/fredericks1982/hass-addon-cloudflared
+   https://github.com/knuspel/hass-addon-cloudflared
    ```
 
 2. Find the "Cloudflare Tunnel Client" add-on in the list of available add-ons, within the "Cloudflare Tunnel add-on" repository.
@@ -49,7 +49,7 @@ To obtain a token:
 
 ## Changelog & Releases
 
-This repository keeps a change log using [GitHub's releases](https://github.com/fredericks1982/hass-addon-cloudflared/releases) functionality.
+This repository keeps a change log using [GitHub's releases](https://github.com/knuspel/hass-addon-cloudflared/releases) functionality.
 
 Releases follow the Calendar Versioning ([CalVer](https://calver.org/)) format: `YYYY.MM.MICRO`, where:
 - `YYYY`: Full year (e.g., 2024)
@@ -62,10 +62,10 @@ For example:
 
 ## Support
 
-Got questions? Found a bug? Please [open an issue](https://github.com/fredericks1982/hass-addon-cloudflared/issues) on the official repository.
+Got questions? Found a bug? Please [open an issue](https://github.com/knuspel/hass-addon-cloudflared/issues) on the official repository.
 
 ## License
 
-This repository uses the Apache License 2.0. For more details, please see the [LICENSE file](https://github.com/fredericks1982/hass-addon-cloudflared/blob/main/LICENSE) in our GitHub repository.
+This repository uses the Apache License 2.0. For more details, please see the [LICENSE file](https://github.com/knuspel/hass-addon-cloudflared/blob/main/LICENSE) in our GitHub repository.
 
 The Cloudflare Tunnel client (cloudflared) is a product of Cloudflare, Inc. and is subject to their terms and conditions.
