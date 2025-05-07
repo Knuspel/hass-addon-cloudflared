@@ -47,4 +47,4 @@ Notes to developers after forking or using the github template feature:
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 
-Based on fredericks1982 Add-On. Forked for faster updates.
+Based on fredericks1982 Add-On. Forked for faster update
